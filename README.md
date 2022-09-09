@@ -1,6 +1,11 @@
 # parakuro
 parakuro의 이름의 유래는 시계를 뜻하는 그리스어 παρακολουθώ(parakolouthó)에서 나온 단어이다.
 parakuro는 원형 노트낙하형 리듬게임으로 게임패드를 사용하는 게임으로 시계를 이용하여 노트를 치는 컨셉이다.
+
+# 플레이 영상
+
+parakuro 첫번째 영상: https://www.youtube.com/watch?v=EFTEz9RwZyo
+
 # 플레이 방법
 
 서클 노트
